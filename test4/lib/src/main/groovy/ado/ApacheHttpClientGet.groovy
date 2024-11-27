@@ -28,7 +28,7 @@ public class ApacheHttpClientGet {
 		def rurl =  "dev.azure.com"
 		
 		//pass in user token
-		def token = "7w2u5qsl44gh5so6ny7v6ybmdmdgc4z772bjjsdo3q6jnddwxdza"
+		def token = ""
 		
 		//pass in project name
 		def project  = "AlmOps"
